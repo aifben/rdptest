@@ -30,7 +30,6 @@ jobs:
     timeout-minutes: 9999
 
     steps:
-    - name: Download Ngrok.name: benaifben
 
 on: workflow_dispatch
 
